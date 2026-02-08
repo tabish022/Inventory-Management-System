@@ -1,7 +1,7 @@
 # Aviation Inventory Management System
 
 ### 📋 Project Overview
-This platform is a specialized data tool designed for aviation logistics. It manages a complex database of high-value components (Turbine Blades, Garmin Displays), transforming raw transaction logs into an executive-level command center.
+This platform is a specialized data tool designed for aviation logistics. It manages a complex database of high-value components (Turbine Blades, Garmin Displays), transforming raw transaction logs into an executive-level command center
 
 ### Dashboard Preview
 https://github.com/user-attachments/assets/3ad173c4-a9d4-488d-be45-4192e0464c07
